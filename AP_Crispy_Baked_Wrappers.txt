@@ -2,6 +2,10 @@ Crispy Baked Wrapper Appetizer
 
 Menu Class: Appetizers
 
+Text 
+
+Menu Class: Appetizers
+
 Description:
 Baked wonton wrappers filled with cheesy sausage. This is perfect for parties.
 
